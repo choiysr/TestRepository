@@ -8,7 +8,7 @@ public class DemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
-		System.out.println("GIT TEST");
+		System.out.println("GIT TEST002");
 	}
 
 }
